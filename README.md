@@ -239,8 +239,8 @@ The following steps describe how to set up and run the system on a local machine
 
 #### Step 1: Clone the repository
 ```bash
-git clone <repository-url>
-cd <project-folder-name>
+git clone https://github.com/Sneha-0208/invoice-document-ai.git
+cd invoice-document-ai
 ```
 Or download and extract the ZIP file.
 
