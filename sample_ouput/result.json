@@ -1,0 +1,30 @@
+{
+  "doc_id": "172427893_3_pg11.png",
+  "fields": {
+    "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD",       
+    "model_name": "SWARAJ744 FE .H8 HP",
+    "horse_power": 48,
+    "asset_cost": 801815,
+    "signature": {
+      "present": true,
+      "bbox": [
+        920,
+        1475,
+        1037,
+        1496
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        876,
+        1438,
+        1037,
+        1497
+      ]
+    }
+  },
+  "confidence": 1.0,
+  "processing_time_sec": 3.57,
+  "cost_estimate_usd": 0.002
+}
